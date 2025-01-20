@@ -6,4 +6,4 @@ restclient:
       connection-timeout: PT5s
       response-timeout: PT10s
       idled-timeout: PT100s
-      user-agent: compliance-accountdetails
+      user-agent: test
